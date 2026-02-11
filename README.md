@@ -1,2 +1,2 @@
 # infuseth-ink
-Tickets to track issues across repos.
+Tickets to track progress of work across repos.
