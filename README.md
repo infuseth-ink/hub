@@ -1,4 +1,4 @@
-# Infuseth-ink Hub
+# 🏰 Infuseth-ink Hub
 Tickets to track progress of work across repos.
 
 One stop shop (a.k.a. _"issue repo"_) for:
